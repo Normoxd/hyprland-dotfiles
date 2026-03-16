@@ -17,8 +17,6 @@ These are the dotfiles of my hyprland setup
 - Better Control - https://github.com/better-ecosystem/better-control
 - Pwropts - https://github.com/Normoxd/Pwropts
 - jetbrains-mono-fonts
-- Product Sans
 
 # Installation Steps
-You can find the config folders for hyprland, kitty, waybar, mako and wofi. Copy the contenets within these folders to the same folders in your .config folder.
-Make sure to have the necessary dependencies installed.
+You can find the config folders for hyprland, kitty, waybar, mako, wofi and fastfetch. Copy the contenets within these folders to the same folders in your .config folder. If you cannot seem to find a config folder for a certain one of them it's possible that that it is expecting you to create a config folder manually or the config file haven't got generated (fastfetch for example). Also make sure to have the necessary dependencies installed.
