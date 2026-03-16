@@ -9,27 +9,32 @@
   "modules-right": ["memory", "network", "pulseaudio", "battery"],
 
   "clock": {
-    "format": "{:%I:%M %p}"
+    "format": "  {:%a %d %b  %I:%M %p}",
+    "on-click": "gnome-calendar"
   },
 
   "pulseaudio": {
     "format": "ㅤ{volume}%",
-    "format-muted": "󰖁ㅤmuted",
-    "scroll-step": 5
+    "format-muted": "󰖁 MUTED",
+    "scroll-step": 5,
+    "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle"
   },
 
   "network": {
     "format-wifi": "ㅤ{signalStrength}%",
-    "format-ethernet": "󰈀ㅤWired",
-    "format-disconnected": "ㅤNo Connection"
+    "format-ethernet": "󰈀ㅤWIRED",
+    "format-disconnected": "ㅤDISCONNECTED",
+    "on-click": "control -wifi"
   },
 
   "cpu": {
-    "format": "ㅤ{usage}%"
+    "format": "ㅤ{usage}%",
+    "on-click": "gnome-system-monitor"
   },
 
   "memory": {
-    "format": "ㅤ{used:0.1f}G"
+    "format": "ㅤ{used:0.1f}G",
+   "on-click": "gnome-system-monitor"
   },
 
   "battery": {
