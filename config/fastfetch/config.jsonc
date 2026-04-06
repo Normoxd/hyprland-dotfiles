@@ -25,9 +25,10 @@
 	"break",
 	{
             "type": "title",
+            "key": "  ",
         },
 	{
-            "type": "title",
+            "type": "custom",
             "format": "------------------------------------------------",
         },
         {
@@ -93,11 +94,15 @@
             "keyColor": "light_blue", 
         },
         {
-            "type": "title",
+            "type": "custom",
             "format": "------------------------------------------------",
         },
         
-        "colors",
+        {
+            "type": "colors",
+            "symbol": "circle",
+        },
+        
         "break",
         "break",
     ]
