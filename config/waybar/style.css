@@ -1,54 +1,13 @@
 * {
-    font-family: "Jetbrains Mono", monospace;
-    font-size: 12px;
+    font-family: "Google Sans", "Noto Sans";
+    font-size: 11px;
     border: none;
-    border-radius: 8px;
-    margin-left: 2px;
-    margin-right: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
 
 }
 
 window#waybar {
-    background: rgba(20, 20, 20, 0.2);
-    color: #ffffff;
-}
-
-#workspaces button {
-    padding: 0 8px;
-    margin: 5px 2px;
-    border-radius: 9px;
-    background: transparent;
-    color: #bbbbbb;
-}
-
-#workspaces button.active {
-    background: rgba(255, 255, 255, 0.15);
-    color: #ffffff;
-}
-
-#clock,
-#pulseaudio,
-#network,
-#cpu,
-#memory,
-#tray,
-#battery {
-    padding: 0 12px;
-    margin: 5px 0;
-    border-radius: 9px;
-    background: rgba(255, 255, 255, 0.08);
-}* {
-    font-family:
-        Product Sans,
-        monospace;
-    font-size: 13px;
-    border: none;
-    border-radius: 0px;
-}
-
-window#waybar {
-    margin-left: 5px;
-    margin-right: 5px;
     background: rgba(20, 20, 20, 0.34);
     color: #ffffff;
 }
@@ -56,7 +15,7 @@ window#waybar {
 #workspaces button {
     padding: 0 8px;
     margin: 5px 2px;
-    border-radius: 12px;
+    border-radius: 7px;
     background: transparent;
     color: #bbbbbb;
 }
@@ -75,6 +34,6 @@ window#waybar {
 #battery {
     padding: 0 12px;
     margin: 5px 0;
-    border-radius: 12px;
+    border-radius: 7px;
     background: rgba(255, 255, 255, 0.08);
 }
