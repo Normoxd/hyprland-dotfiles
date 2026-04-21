@@ -28,4 +28,4 @@
 
 # 📝 Credits
 - [Monochrome Hyprland](https://github.com/xindicate-dev/monochrome-hyprland) by [Xindicate](https://github.com/xindicate-dev)
-- The mako config which i forgot where i stole it from
+- [Fastfetch config](https://github.com/LierB/fastfetch) by [Bina](https://github.com/LierB)
