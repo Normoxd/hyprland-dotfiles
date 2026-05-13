@@ -1,11 +1,11 @@
 # Hyprland dotfiles
 
-![Overview](https://github.com/Normoxd/dotfiles/blob/main/img.png?raw=true)
+![Overview](https://github.com/Normoxd/dotfiles/blob/main/img1.png?raw=true)
 ![Overview](https://github.com/Normoxd/dotfiles/blob/main/img2.png?raw=true)
 
 # ⚙️ Installation
 
-1. Install the softwares listed below
+1. Install the dependencies listed below
 2. Copy over config files to your `~/.config`
 
 > There's no install script yet because i'm too dumb to make one, if you have enough braincells to do it pwease help :3
