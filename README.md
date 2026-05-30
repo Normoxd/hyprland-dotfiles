@@ -17,6 +17,7 @@
 - [mako](https://github.com/emersion/mako)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [polkit](https://wiki.archlinux.org/title/Polkit)
+- [flameshot](https://github.com/flameshot-org/flameshot)
 - [grim](https://gitlab.freedesktop.org/emersion/grim)
 - [slurp](https://github.com/emersion/slurp)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
